@@ -1,0 +1,26 @@
+div.jumbotron {
+  /*background-image: url(https://vignette4.wikia.nocookie.net/mcleodgaming/images/4/4b/One_Piece_Title.PNG/revision/latest?cb=20160816071218);
+  background-position: 0% 25%;
+  background-size: auto;
+  background-repeat: no-repeat;
+  color: white;
+  text-shadow: black 0.3em 0.3em 0.3em;*/
+  margin-top: 65px;
+  opacity: 0.99599999;
+  background-color: black;
+  color: white;
+}
+
+img {
+	height: 300px;
+	width: auto;
+}
+
+body {
+	background-image: url(https://vignette4.wikia.nocookie.net/mcleodgaming/images/4/4b/One_Piece_Title.PNG/revision/latest?cb=20160816071218);
+	background-position: static;
+}
+
+button {
+	color: black;
+}
